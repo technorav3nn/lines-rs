@@ -10,5 +10,6 @@ license = "ISC"
 [dependencies]
 
 [[bin]]
-name = "mycli"
-path = "main.rs"
+name = "lines"
+path = "src/main.rs"
+example = "lines test.txt"
